@@ -35,5 +35,3 @@ WORKING:
 *Additionally, the IR blaster facilitates an automatic shutdown of the AC or refrigeration system, preventing further leakage and safeguarding both occupants and the environment.
 
 This project not only aligns with our dedication to cutting-edge technology but also addresses critical safety and environmental concerns, showcasing our commitment to creating efficient and responsible solutions in the realm of refrigeration systems.
-
-image image
